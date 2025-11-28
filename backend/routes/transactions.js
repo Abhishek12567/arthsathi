@@ -1,3 +1,4 @@
+// backend/routes/transactions.js
 import express from "express";
 import { addTransaction, getTransactions } from "../controllers/transactionsController.js";
 
